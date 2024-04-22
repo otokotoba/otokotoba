@@ -5,6 +5,6 @@ I've been learning web technologies and would like to collaborate on software re
 
 If you are interested in my music project, please check out the links below.
 
-![YouTube](https://img.shields.io/badge/YouTube-cd201f?style=for-the-badge&logo=youtube)
-![Static Badge](https://img.shields.io/badge/TwiX-1da1f2?style=for-the-badge&logo=x)
-![Static Badge](https://img.shields.io/badge/SoundCloud-ff3300?style=for-the-badge&logo=soundcloud&logoColor=white)
+[![YouTube](https://img.shields.io/badge/YouTube-cd201f?style=for-the-badge&logo=youtube)](https://www.youtube.com/@otokotoba/)
+[![Static Badge](https://img.shields.io/badge/TwiX-1da1f2?style=for-the-badge&logo=x)](https://twitter.com/otokotoba_music)
+[![Static Badge](https://img.shields.io/badge/SoundCloud-ff3300?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/otokotoba)
