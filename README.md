@@ -1,7 +1,7 @@
 Hello, I’m Otokotoba! Strictly speaking, "Otokotoba" is a personal music project run by Nanashi, a royalty free BGM and Vocaloid producer.
 You can call me Otokotoba or Nanashi. Either is fine.
 
-I've been learning web technologies and would like to collaborate on softwear related to music in the future because I've been learning it too.
+I've been learning web technologies and would like to collaborate on software related to music in the future because I've been learning it too.
 
 If you are interested in my music project, please check out the links below.
 
